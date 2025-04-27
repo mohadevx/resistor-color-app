@@ -1,4 +1,4 @@
-# Resistor Color Code Decoder (Svelte)
+# Resistor Color Code Decoder with Svelte
 
 This is a simple web application to decode 4-band resistors using a visual interface.
 
